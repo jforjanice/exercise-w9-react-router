@@ -1,6 +1,6 @@
 // TODO: Import necessary modules and data
 import { useParams } from "react-router-dom";
-import songs from "../data/songs.json";
+import { songs } from "../data/songs.json";
 
 // TODO: Destrcutrue props to receive information coming in from the parent comp
 function SongInfo() {
